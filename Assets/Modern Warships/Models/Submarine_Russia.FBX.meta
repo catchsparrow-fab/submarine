@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e1cf655fa9a984c7aa466d12343f6ac0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Hatch
+    100004: Hatch001
+    100006: Hatch002
+    100008: Hatch003
+    100010: Hatch004
+    100012: Hatch005
+    100014: Left_Propeller
+    100016: Missile_hatch_lid
+    100018: Missile_hatch_lid001
+    100020: Missile_hatch_lid002
+    100022: Missile_hatch_lid003
+    100024: Missile_hatch_lid004
+    100026: Missile_hatch_lid005
+    100028: Right_Propeller
+    100030: //RootNode
+    400000: Body
+    400002: Hatch
+    400004: Hatch001
+    400006: Hatch002
+    400008: Hatch003
+    400010: Hatch004
+    400012: Hatch005
+    400014: Left_Propeller
+    400016: Missile_hatch_lid
+    400018: Missile_hatch_lid001
+    400020: Missile_hatch_lid002
+    400022: Missile_hatch_lid003
+    400024: Missile_hatch_lid004
+    400026: Missile_hatch_lid005
+    400028: Right_Propeller
+    400030: //RootNode
+    2300000: Body
+    2300002: Hatch
+    2300004: Hatch001
+    2300006: Hatch002
+    2300008: Hatch003
+    2300010: Hatch004
+    2300012: Hatch005
+    2300014: Left_Propeller
+    2300016: Missile_hatch_lid
+    2300018: Missile_hatch_lid001
+    2300020: Missile_hatch_lid002
+    2300022: Missile_hatch_lid003
+    2300024: Missile_hatch_lid004
+    2300026: Missile_hatch_lid005
+    2300028: Right_Propeller
+    3300000: Body
+    3300002: Hatch
+    3300004: Hatch001
+    3300006: Hatch002
+    3300008: Hatch003
+    3300010: Hatch004
+    3300012: Hatch005
+    3300014: Left_Propeller
+    3300016: Missile_hatch_lid
+    3300018: Missile_hatch_lid001
+    3300020: Missile_hatch_lid002
+    3300022: Missile_hatch_lid003
+    3300024: Missile_hatch_lid004
+    3300026: Missile_hatch_lid005
+    3300028: Right_Propeller
+    4300000: Body
+    4300002: Hatch
+    4300004: Missile_hatch_lid
+    4300006: Hatch001
+    4300008: Missile_hatch_lid001
+    4300010: Hatch002
+    4300012: Missile_hatch_lid002
+    4300014: Hatch003
+    4300016: Missile_hatch_lid003
+    4300018: Hatch004
+    4300020: Missile_hatch_lid004
+    4300022: Missile_hatch_lid005
+    4300024: Hatch005
+    4300026: Right_Propeller
+    4300028: Left_Propeller
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
