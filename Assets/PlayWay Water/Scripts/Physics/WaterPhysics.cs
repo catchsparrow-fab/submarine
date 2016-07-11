@@ -274,7 +274,7 @@ namespace PlayWay.Water
 					force.y += dragForce.y * frc;
 					force.z += dragForce.z * frc;
 
-					// apply buoyancy and drag
+                    // apply buoyancy and drag
 					rigidBody.AddForceAtPosition(force, displaced, ForceMode.Force);
 
 					// flow force

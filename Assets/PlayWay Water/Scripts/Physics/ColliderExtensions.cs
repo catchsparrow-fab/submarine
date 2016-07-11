@@ -14,7 +14,9 @@ static public class ColliderExtensions
 		else if(that is CapsuleCollider)
 			return (that as CapsuleCollider).ComputeVolume();
 		else
+        {
 			throw new System.NotImplementedException();
+        }
 	}
 
 	static public float ComputeVolume(this BoxCollider that)
